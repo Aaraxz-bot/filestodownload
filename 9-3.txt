@@ -1,0 +1,45 @@
+Url: https://eschool.am/
+Username: larakelyan
+Password: larakelyan
+Application: Chrome
+=============================
+Url: https://www.eschool.am/
+Username: larakelyan
+Password: larakelyan
+Application: Chrome
+=============================
+Url: https://www.eschool.am/
+Username: asimonyan
+Password: araks5430
+Application: Chrome
+=============================
+Url: https://informatics.msk.ru/login/index.php
+Username: julyaem
+Password: 123456789
+Application: Chrome
+=============================
+Url: https://eschool.am/
+Username: asimonyan
+Password: araks5430
+Application: Chrome
+=============================
+Url: https://www.eschool.am/
+Username: pakareyan
+Password: paakareyan
+Application: Chrome
+=============================
+Url: https://humanbenchmark.com/signup
+Username: Argishti
+Password: aren2007
+Application: Edge Chromium
+=============================
+Url: https://account.mail.ru/login/
+Username: quantumargishti@mail.ru
+Password: aren2007
+Application: Edge Chromium
+=============================
+Url: https://mail.ru/
+Username: quantumargishti@mail.ru
+Password: aren2007
+Application: Edge Chromium
+=============================
